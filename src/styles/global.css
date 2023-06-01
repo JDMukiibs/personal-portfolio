@@ -22,7 +22,7 @@
 	--accent-overlay: hsla(280, 89%, 67%, 0.33);
 	--accent-subtle-overlay: var(--accent-overlay);
 	--accent-text-over: var(--gray-999);
-	--accent-hover-over-icon: var(--accent-regular);
+	--accent-hover-over-icon: var(--gray-900);
 
 	--link-color: var(--accent-regular);
 
